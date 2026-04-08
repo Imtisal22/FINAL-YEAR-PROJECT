@@ -1,0 +1,33 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+
+# Virtual environments
+imtisal_venv/
+imtisal_tf_venv/
+venv/
+env/
+.env/
+
+# Model binaries — tracked via Git LFS instead of ignored
+# *.keras and *.pkl are handled by .gitattributes (Git LFS)
+
+# Google API credentials
+credentials.json
+token.json
+
+# IDE / OS
+.vscode/
+.idea/
+*.DS_Store
+Thumbs.db
+
+# Jupyter
+.ipynb_checkpoints/
+*.ipynb
+
+# Logs
+*.log

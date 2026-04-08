@@ -1,0 +1,11 @@
+google-api-python-client==2.111.0
+google-auth-httplib2==0.2.0
+google-auth-oauthlib==1.2.0
+pandas==2.2.0
+numpy==1.26.4
+matplotlib==3.8.2
+seaborn==0.13.2
+scikit-learn==1.4.0
+openpyxl==3.1.2
+scipy==1.12.0
+tqdm==4.66.2
